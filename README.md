@@ -1,6 +1,14 @@
 # KendoUI
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.0.
+## Information
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
+installing the components and themes from [Kendo UI](https://www.telerik.com/kendo-angular-ui/) 
+
+## Dependencies
+
+Run `npm install` to install all the dependencies set in the package.json file that will
+automatically install the node modules that makes the project work.
 
 ## Development server
 
@@ -26,3 +34,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+To get more help on the Kendo UI use go check out the [Kendo UI Components](https://www.telerik.com/kendo-angular-ui/components/).
